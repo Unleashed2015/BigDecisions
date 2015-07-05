@@ -2,8 +2,8 @@
 Adelaide loses lots of young graduates. They may earn more interstate but what about housing affordability or lifestyle?
 Our website pulls together relevant data points to help individuals reach a meaningful decision.</p>
 
-<p>Team name: Data Dingoes<br>
-Team memebers: Ash, Cathy, Ben and Theresa<br>
+<p>Team name: Data Dingoes <br>
+Team memebers: Ash, Cathy, Ben and Theresa <br>
 Hackerspace url: <a href='http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6306.0May%202014?OpenDocument' target='_blank'>https://hackerspace.govhack.org/content/should-i-stay-or-should-i-go</a><br>
 </p>
 
