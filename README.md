@@ -5,8 +5,11 @@ Adelaide loses lots of young graduates. They may earn more interstate but what a
 Our website pulls together relevant data points to help individuals reach a meaningful decision.
 
 Team name: Data Dingoes
+
 Team memebers: Ash, Cathy, Ben and Theresa
+
 Video url: [https://vimeo.com/132623156](https://vimeo.com/132623156)
+
 Hackerspace url: [https://hackerspace.govhack.org/content/should-i-stay-or-should-i-go](https://hackerspace.govhack.org/content/should-i-stay-or-should-i-go)
 
 Live url: [https://asheshwor.shinyapps.io/bigDecisions](https://asheshwor.shinyapps.io/bigDecisions)
