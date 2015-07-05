@@ -14,7 +14,7 @@ Hackerspace url: [https://hackerspace.govhack.org/content/should-i-stay-or-shoul
 
 Live url: [https://asheshwor.shinyapps.io/bigDecisions](https://asheshwor.shinyapps.io/bigDecisions)
 
-If you have RStudion and Shiny installed, use the following command to run the app:
+If you have RStudio and Shiny installed, you can use the following command to run the app:
 
 ```R
 shiny::runGitHub('BigDecisions', 'Unleashed2015')
