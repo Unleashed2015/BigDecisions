@@ -43,4 +43,4 @@ shiny::runGitHub('BigDecisions', 'Unleashed2015')
 
 #### Source code
 
-GitHub repository [https://github.com/Unleashed2015/sisosig](https://github.com/Unleashed2015/sisosig)
+GitHub repository [https://github.com/Unleashed2015/BigDecisions](https://github.com/Unleashed2015/BigDecisions)
