@@ -6,7 +6,7 @@ Our website pulls together relevant data points to help individuals reach a mean
 
 Team name: Data Dingoes
 
-Team memebers: Ash, Cathy, Ben and Theresa
+Team memebers: Ash, Ben, Cathy and Theresa
 
 Video url: [https://vimeo.com/132623156](https://vimeo.com/132623156)
 
