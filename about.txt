@@ -1,0 +1,33 @@
+<p>Project description</p>
+<p>Young Australians are often faced with the decision whether to stay in the city they were raised in, or move interstate for employment opportunities or to be with a loved one. It's a big life decision. But how do you decide, should I stay or should I go?
+Our app .... 
+</p>
+
+<p>Datasets used</p>
+<ul>
+<li>Employee earnings and hours, May 2014 - ABS <a href='http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6306.0May%202014?OpenDocument'>http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6306.0May%202014?OpenDocument</a> </li>
+<li>Residential dwellings: values, mean price and numbers by state and territories - ABS <a href='http://data.gov.au/dataset/a03aaf19-dbf9-4f62-ab3b-9e2c1172d7d4'>http://data.gov.au/dataset/a03aaf19-dbf9-4f62-ab3b-9e2c1172d7d4</a> </li>
+<li>State nomination occupation list for Victoria - vic.gov.au <a href='http://www.liveinvictoria.vic.gov.au/visas-and-immigrating/occupation-lists#.VZdEc_mqqko'>http://www.liveinvictoria.vic.gov.au/visas-and-immigrating/occupation-lists#.VZdEc_mqqko</a> </li>
+<li>State nomination occupation list for South Australia - migration.sa.gov <a href='http://www.migration.sa.gov.au/Occupation/ExportOnListAsCsv?u=32d47673-962b-4ace-9375-9239878c4dab'>http://www.migration.sa.gov.au/Occupation/ExportOnListAsCsv?u=32d47673-962b-4ace-9375-9239878c4dab</a> </li>
+<li>Population by age and sex - data.sa.gov.au <a href='https://data.sa.gov.au/data/dataset/population-by-age-and-sex/resource/f284c4d7-3dfc-4653-8eb8-88dcf854fd05'>https://data.sa.gov.au/data/dataset/population-by-age-and-sex/resource/f284c4d7-3dfc-4653-8eb8-88dcf854fd05</a> </li>
+<li>Metropolitan myki fares 2015 - ptv.vic.gov.au <a href='http://ptv.vic.gov.au/tickets/metropolitan-myki-fares/'>http://ptv.vic.gov.au/tickets/metropolitan-myki-fares/</a> </li>
+<li>Adelaide Metro fares 2015 - adelaidemetro.com.au <a href='https://www.adelaidemetro.com.au/28-Day-Pass/Fare-Comparisons'>https://www.adelaidemetro.com.au/28-Day-Pass/Fare-Comparisons</a> </li>
+<li>Net Interstate Migration, Calendar years 1997 to 2014 - data.gov.au <a href='http://data.gov.au/dataset/net-interstate-migration-calendar-years-1997-to-2012/resource/f0e4a05c-180f-4d8a-bff1-5e045927ba20'>http://data.gov.au/dataset/net-interstate-migration-calendar-years-1997-to-2012/resource/f0e4a05c-180f-4d8a-bff1-5e045927ba20</a> </li>
+</ul>
+
+<h4>Attribution for software and platforms used</h4>
+<ul>
+<li>R <a href='http://cran.r-project.org/'>http://cran.r-project.org/</a> </li>
+<li>RStudio <a href='http://www.rstudio.com/'>http://www.rstudio.com/</a> </li>
+<li>Shinyapps <a href='http://shiny.rstudio.com/'>http://shiny.rstudio.com/</a> </li>
+<li>GitHub <a href='https://github.com/'>https://github.com/</a> </li>
+<li>html5up <a href='http://html5up.net/'>http://html5up.net/</a> </li>
+<li>gimp <a href='http://www.gimp.org/'>http://www.gimp.org/</a> </li>
+<li>adobe premier pro <a href='https://www.adobe.com/au/products/premiere.html'>https://www.adobe.com/au/products/premiere.html</a> </li>
+<li>slack <a href='slack.com'>slack.com</a> </li>
+<li>Active presenter <a href='http://atomisystems.com/activepresenter/'>http://atomisystems.com/activepresenter/</a> </li>
+</ul>
+	
+<h4>Source code</h4>
+<p>GitHub repository<a href='https://github.com/Unleashed2015/sisosig'>https://github.com/Unleashed2015/sisosig</a></p>
+

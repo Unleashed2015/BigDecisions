@@ -1,0 +1,2481 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>ABS.Stat</Author>
+  <LastAuthor>अशेश्वर</LastAuthor>
+  <Created>2015-07-04T13:48:49Z</Created>
+  <LastSaved>2015-07-04T04:37:39Z</LastSaved>
+  <Company>ABS</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ActiveSheet>1</ActiveSheet>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m103130880">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="m103130900">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#B2D1C1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130920">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#B2D1C1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130940">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#B2D1C1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130960">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#B2D1C1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130980">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#B2D1C1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130656">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#7FB299" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130676">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#7FB299" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130696">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="m103130716">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="m103130736">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="m103130756">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="m103130776">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="m103130796">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="m103130816">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="m103130836">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="m103130432">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#4C9470" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130452">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#4C9470" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130472">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#7FB299" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130492">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#7FB299" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130512">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#7FB299" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130532">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#7FB299" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130552">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#7FB299" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130572">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#7FB299" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130592">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#7FB299" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m103130612">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#7FB299" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="9" ss:Color="#0066CC"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#B2D1C1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s106">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#B2D1C1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s107">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#FFFFCC"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:VerticalAlign="Superscript"/>
+  </Style>
+  <Style ss:ID="s108">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#FFFFCC"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s109">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#FFFFCC"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:VerticalAlign="Superscript"/>
+   <Interior ss:Color="#FFFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s110">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#FFFFCC"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#E5EFEA" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s117">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#0066CC"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s118">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+  </Style>
+  <Style ss:ID="s119">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s120">
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s127">
+   <Interior ss:Color="#E46D0A" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="ABS.Stat export">
+  <Table ss:ExpandedColumnCount="21" ss:ExpandedRowCount="51" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="144" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="12.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="24"/>
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="24"/>
+   <Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="24"/>
+   <Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="24"/>
+   <Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="24"/>
+   <Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="24"/>
+   <Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="24"/>
+   <Column ss:Index="18" ss:AutoFitWidth="0" ss:Width="24"/>
+   <Column ss:Index="20" ss:AutoFitWidth="0" ss:Width="24"/>
+   <Row ss:Hidden="1">
+    <Cell ss:StyleID="s62" ss:Formula="=DotStatQuery(RC[1])"><Data ss:Type="Error">#NAME?</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;?xml version=&quot;1.0&quot;?&gt;&lt;WebTableParameter xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns=&quot;&quot;&gt;&lt;DataTable Code=&quot;RES_DWEL_ST&quot; HasMetadata=&quot;true&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Residential Dwellings: Values, Mean Price and Number by State and Territories&lt;/Name&gt;&lt;Dimension Code=&quot;MEASURE&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Residential Dwellings&lt;/Name&gt;&lt;Member Code=&quot;1&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Value of dwelling stock: Owned by all sectors ($m)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Value of dwelling stock: Owned by households ($m)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;3&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Value of dwelling stock: Owned by non households ($m)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;4&quot; HasOnlyUnitMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Number of residential dwellings ('000)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;5&quot; HasOnlyUnitMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Mean price of residential dwelling ($'000)&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;ASGS_2011&quot; CommonCode=&quot;ASGS_2011&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;REGION&lt;/Name&gt;&lt;Member Code=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Australia&lt;/Name&gt;&lt;ChildMember Code=&quot;1&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;New South Wales&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;2&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Victoria&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;3&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Queensland&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;4&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;South Australia&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;5&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Western Australia&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;6&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Tasmania&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;7&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Northern Territory&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;8&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Australian Capital Territory&lt;/Name&gt;&lt;/ChildMember&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;FREQUENCY&quot; CommonCode=&quot;FREQUENCY&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Frequency&lt;/Name&gt;&lt;Member Code=&quot;Q&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Quarterly&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;TIME&quot; CommonCode=&quot;TIME&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Time&lt;/Name&gt;&lt;Member Code=&quot;2013Q2&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Jun-2013&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2013Q3&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Sep-2013&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2013Q4&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Dec-2013&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2014Q1&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Mar-2014&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2014Q2&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Jun-2014&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2014Q3&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Sep-2014&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2014Q4&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Dec-2014&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2015Q1&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Mar-2015&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;WBOSInformations&gt;&lt;TimeDimension WebTreeWasUsed=&quot;false&quot;&gt;&lt;NumberOfPeriods Annual=&quot;0&quot; Semesters=&quot;0&quot; Quarters=&quot;8&quot; Months=&quot;0&quot; Weeks=&quot;0&quot; Days=&quot;0&quot; /&gt;&lt;/TimeDimension&gt;&lt;/WBOSInformations&gt;&lt;Tabulation Axis=&quot;horizontal&quot;&gt;&lt;Dimension Code=&quot;ASGS_2011&quot; CommonCode=&quot;ASGS_2011&quot; /&gt;&lt;/Tabulation&gt;&lt;Tabulation Axis=&quot;vertical&quot;&gt;&lt;Dimension Code=&quot;MEASURE&quot; /&gt;&lt;Dimension Code=&quot;TIME&quot; CommonCode=&quot;TIME&quot; /&gt;&lt;/Tabulation&gt;&lt;Tabulation Axis=&quot;page&quot;&gt;&lt;Dimension Code=&quot;FREQUENCY&quot; CommonCode=&quot;FREQUENCY&quot; /&gt;&lt;/Tabulation&gt;&lt;Formatting&gt;&lt;Labels LocaleIsoCode=&quot;en&quot; /&gt;&lt;Power&gt;0&lt;/Power&gt;&lt;Decimals&gt;-1&lt;/Decimals&gt;&lt;SkipEmptyLines&gt;true&lt;/SkipEmptyLines&gt;&lt;FullyFillPage&gt;true&lt;/FullyFillPage&gt;&lt;SkipEmptyCols&gt;false&lt;/SkipEmptyCols&gt;&lt;SkipLineHierarchy&gt;true&lt;/SkipLineHierarchy&gt;&lt;SkipColHierarchy&gt;true&lt;/SkipColHierarchy&gt;&lt;Page&gt;1&lt;/Page&gt;&lt;/Formatting&gt;&lt;/DataTable&gt;&lt;Format&gt;&lt;ShowEmptyAxes&gt;true&lt;/ShowEmptyAxes&gt;&lt;Page&gt;1&lt;/Page&gt;&lt;EnableSort&gt;true&lt;/EnableSort&gt;&lt;IncludeFlagColumn&gt;true&lt;/IncludeFlagColumn&gt;&lt;IncludeTimeSeriesId&gt;false&lt;/IncludeTimeSeriesId&gt;&lt;DoBarChart&gt;false&lt;/DoBarChart&gt;&lt;MaxBarChartLen&gt;65&lt;/MaxBarChartLen&gt;&lt;/Format&gt;&lt;Query&gt;&lt;AbsoluteUri&gt;http://stat.abs.gov.au//View.aspx?QueryId=815&amp;amp;QueryType=Public&amp;amp;Lang=en&lt;/AbsoluteUri&gt;&lt;/Query&gt;&lt;/WebTableParameter&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s63" ss:HRef="http://stat.abs.gov.au/OECDStat_Metadata/ShowMetadata.ashx?Dataset=RES_DWEL_ST&amp;ShowOnWeb=true&amp;Lang=en"
+     x:HRefScreenTip="Click once to display linked information. Click and hold to select this cell."><Data
+      ss:Type="String">Dataset: Residential Dwellings: Values, Mean Price and Number by State and Territories</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="m103130432"><Data ss:Type="String">Frequency</Data></Cell>
+    <Cell ss:MergeAcross="17" ss:StyleID="m103130452"><Data ss:Type="String">Quarterly</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="m103130472"><Data ss:Type="String">REGION</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130492"><Data ss:Type="String">Australia</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130512"><Data ss:Type="String">  New South Wales</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130532"><Data ss:Type="String">  Victoria</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130552"><Data ss:Type="String">  Queensland</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130572"><Data ss:Type="String">  South Australia</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130592"><Data ss:Type="String">  Western Australia</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130612"><Data ss:Type="String">  Tasmania</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130656"><Data ss:Type="String">  Northern Territory</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130676"><Data ss:Type="String">  Australian Capital Territory</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Residential Dwellings</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Time</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130696"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130716"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130736"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130756"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130776"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130796"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130816"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130836"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m103130880"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeDown="7" ss:StyleID="m103130900" ss:HRef="http://stat.abs.gov.au/OECDStat_Metadata/ShowMetadata.ashx?Dataset=RES_DWEL_ST&amp;Coords=[MEASURE].[1]&amp;ShowOnWeb=true&amp;Lang=en"
+     x:HRefScreenTip="Click once to display linked information. Click and hold to select this cell."><Data
+      ss:Type="String">Value of dwelling stock: Owned by all sectors ($m)</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">Jun-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">4694434</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1674547.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1198992.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">790384.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">279797.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">557135.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">69770.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">37854.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">85950.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Sep-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">4781945.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1720081.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1232932.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">792402.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">283716.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">559828.30000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">69921.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">38527.300000000003</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">84535.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Dec-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">4963138.9000000004</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1803058.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1274230.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">813001.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">294472.59999999998</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">576871.69999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">72196.800000000003</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">40723</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88584.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Mar-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">5042934.9000000004</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1838723.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1294655.8999999999</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">828704.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">299732.59999999998</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">580517.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">72476.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">40478.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">87645.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Jun-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">5141498.9000000004</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1899296.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1307106.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">840721</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">300870.59999999998</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">590010.19999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">72835.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">41643.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">89015.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Sep-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">5227829.0999999996</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1955831.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1327279.3999999999</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">851960.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">301283.20000000001</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">588041</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">73500.899999999994</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">40181.300000000003</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">89751.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Dec-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">5367159.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">2027597.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1363000.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">864681.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">309639.59999999998</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">594898.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">72958.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">41806.199999999997</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">92576.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Mar-2015</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">5468467.9000000004</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">2097751.2000000002</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1378243</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">872126.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">312582.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">598176.69999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">73577.600000000006</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">41950.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">94060.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeDown="7" ss:StyleID="m103130920" ss:HRef="http://stat.abs.gov.au/OECDStat_Metadata/ShowMetadata.ashx?Dataset=RES_DWEL_ST&amp;Coords=%5bMEASURE%5d.%5b2%5d&amp;ShowOnWeb=true&amp;Lang=en"
+     x:HRefScreenTip="Click once to display linked information. Click and hold to select this cell."><Data
+      ss:Type="String">Value of dwelling stock: Owned by households ($m)</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">Jun-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">4447442.0999999996</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1585437.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1158047</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">747864.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">259017.60000000001</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">524000.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">64969.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">29628.799999999999</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">78476.800000000003</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Sep-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">4530851.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1628519.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1191081.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">749899</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">262555.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">526132.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">65125.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">30376.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">77161.899999999994</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Dec-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">4703735.9000000004</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1707531.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1231196.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">769482.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">272773.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">542841.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">67191.100000000006</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">31864.400000000001</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">80854.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Mar-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">4779662.5999999996</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1741296.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1250934.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">784432.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">277542.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">546309.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">67466.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">31656.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">80024</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Jun-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">4873880.0999999996</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1799223.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1263274.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">795822.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">278665.40000000002</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">555342.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">67679.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">32613.599999999999</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">81258.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Sep-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">4955765.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1852607.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1282689.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">806400.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">279029.09999999998</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">553481.69999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">68441.600000000006</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">31147.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">81967.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Dec-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">5089044.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1920966.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1317167.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">818535.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">287040.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">560083</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">67977.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">32730.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">84544.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Mar-2015</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">5185144.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1987430.3999999999</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1331897.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">825582.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">289768.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">563169</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">68554.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">32843.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">85899.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeDown="7" ss:StyleID="m103130940" ss:HRef="http://stat.abs.gov.au/OECDStat_Metadata/ShowMetadata.ashx?Dataset=RES_DWEL_ST&amp;Coords=%5bMEASURE%5d.%5b3%5d&amp;ShowOnWeb=true&amp;Lang=en"
+     x:HRefScreenTip="Click once to display linked information. Click and hold to select this cell."><Data
+      ss:Type="String">Value of dwelling stock: Owned by non households ($m)</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">Jun-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">246992</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">89110</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">40945.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">42519.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">20780.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">33135.300000000003</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">4801.3999999999996</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">8225.7000000000007</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">7473.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Sep-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">251094.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">91561.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">41851.300000000003</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">42503.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">21161.599999999999</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">33696</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">4796</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">8150.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">7374.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Dec-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">259403</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">95526.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">43034.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">43518.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">21699.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">34030.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">5005.6000000000004</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">8858.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">7729.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Mar-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">263272.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">97426.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">43721.599999999999</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">44272.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">22189.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">34208.800000000003</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">5009.3999999999996</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">8822</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">7621.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Jun-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">267618.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">100072.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">43832.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">44898.400000000001</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">22205.200000000001</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">34668.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">5156</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">9029.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">7756.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Sep-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">272063.40000000002</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">103223.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">44589.599999999999</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">45560</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">22254.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">34559.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">5059.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">9033.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">7783.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Dec-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">278115</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">106631.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">45832.800000000003</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">46146.400000000001</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">22599.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">34815.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">4981.1000000000004</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">9075.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">8032.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Mar-2015</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">283323.09999999998</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">110320.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">46345.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">46543.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">22814.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">35007.699999999997</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">5023.3999999999996</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">9106.7999999999993</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">8161.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeDown="7" ss:StyleID="m103130960"><Data ss:Type="String">Number of residential dwellings ('000)</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">Jun-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">9226.9</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">2884.7</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">2342</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1831.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">735.4</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">970.9</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">234.1</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">76.599999999999994</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">151.80000000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Sep-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">9261.4</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">2892.6</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">2353</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1838.5</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">737.3</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">975.6</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">234.5</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">76.900000000000006</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">153.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Dec-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">9299.4</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">2901.6</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">2364.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1846.3</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">739.2</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">981.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">234.9</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">77.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">153.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Mar-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">9329.1</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">2908.6</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">2373.6999999999998</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1852.1</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">740.8</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">985.8</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">235.3</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">77.900000000000006</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">154.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Jun-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">9366.7999999999993</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">2917.1</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">2385.1999999999998</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1859.3</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">742.7</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">992.3</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">235.8</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">78.7</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">155.69999999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Sep-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">9409.2000000000007</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">2927.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">2397.1999999999998</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1869.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">745.2</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">998.3</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">236.2</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">79.400000000000006</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">156.19999999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Dec-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">9453.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">2938.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">2410.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1877.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">747.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">1004.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">236.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">80.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">157.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Mar-2015</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">9491.7000000000007</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">2946.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">2421.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1886.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">750.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">1010.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">237.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">80.599999999999994</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">158.69999999999999</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeDown="7" ss:StyleID="m103130980"><Data ss:Type="String">Mean price of residential dwelling ($'000)</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">Jun-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">508.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">580.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">512</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">431.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">380.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">573.79999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">298.10000000000002</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">494.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">566.20000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Sep-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">516.29999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">594.70000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">524</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">431</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">384.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">573.79999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">298.10000000000002</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">501.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">552.29999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Dec-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">533.70000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">621.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">538.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">440.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">398.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">587.70000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">307.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">525.5</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">575.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Mar-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">540.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">632.20000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">545.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">447.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">404.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">588.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">308</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">519.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">566</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Jun-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">548.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">651.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">548</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">452.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">405.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">594.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">308.89999999999998</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">529.20000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">571.79999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Sep-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">555.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">668</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">553.70000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">455.8</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">404.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">589.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">311.2</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">506</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">574.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Dec-2014</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">567.70000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">690</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">565.4</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">460.6</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">414.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">592.29999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">308.10000000000002</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">521.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">(r)</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">586.29999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:StyleID="s106"><Data ss:Type="String">Mar-2015</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">576.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">712</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">569.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">462.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">416.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">591.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">309.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">520.20000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">(p)</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">592.79999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="42.75">
+    <Cell ss:StyleID="s117" ss:HRef="http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/ABS+Copyright"
+     x:HRefScreenTip="Click once to display linked information. Click and hold to select this cell."><Data
+      ss:Type="String">Data extracted on 04 Jul 2015 03:48 UTC (GMT) from ABS.Stat © Commonwealth of Australia.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="42.75">
+    <Cell ss:StyleID="s117" ss:HRef="http://creativecommons.org/licenses/by/2.5/au/"
+     x:HRefScreenTip="Click once to display linked information. Click and hold to select this cell."><Data
+      ss:Type="String">This material carries the following licence: Creative Commons Attribution 2.5 Australia.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="74.25">
+    <Cell ss:StyleID="s117" ss:HRef="http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Attributing+ABS+Material"
+     x:HRefScreenTip="Click once to display linked information. Click and hold to select this cell."><Data
+      ss:Type="String">Under the terms of this licence, you are required to attribute ABS material in the manner specified by the ABS (but not in any way that suggests that the ABS endorses you or your use of the work).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s118"><Data ss:Type="String">Legend:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s119"><Data ss:Type="String">p:</Data></Cell>
+    <Cell ss:StyleID="s118"><Data ss:Type="String">preliminary figure or series subject to revision</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s119"><Data ss:Type="String">r:</Data></Cell>
+    <Cell ss:StyleID="s118"><Data ss:Type="String">revised</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <DoNotDisplayGridlines/>
+   <TopRowVisible>1</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>19</ActiveCol>
+     <RangeSelection>R4C20:R4C21</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="9" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="46.5"/>
+   <Column ss:Width="42.75"/>
+   <Column ss:Width="86.25"/>
+   <Column ss:Width="43.5"/>
+   <Column ss:Width="61.5"/>
+   <Column ss:Width="77.25"/>
+   <Column ss:Width="87.75"/>
+   <Column ss:Width="46.5"/>
+   <Column ss:Width="90.75"/>
+   <Column ss:Width="129.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">REGION</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">  New South Wales</Data></Cell>
+    <Cell><Data ss:Type="String">  Victoria</Data></Cell>
+    <Cell><Data ss:Type="String">  Queensland</Data></Cell>
+    <Cell><Data ss:Type="String">  South Australia</Data></Cell>
+    <Cell><Data ss:Type="String">  Western Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Tasmania</Data></Cell>
+    <Cell><Data ss:Type="String">  Northern Territory</Data></Cell>
+    <Cell><Data ss:Type="String">  Australian Capital Territory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jun-2013</Data></Cell>
+    <Cell><Data ss:Type="Number">508.8</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">580.5</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">512</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">431.6</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">380.5</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">573.79999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">298.10000000000002</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">494.5</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">566.20000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Sep-2013</Data></Cell>
+    <Cell><Data ss:Type="Number">516.29999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">594.70000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">524</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">431</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">384.8</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">573.79999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">298.10000000000002</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">501.1</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">552.29999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Dec-2013</Data></Cell>
+    <Cell><Data ss:Type="Number">533.70000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">621.4</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">538.9</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">440.4</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">398.4</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">587.70000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">307.3</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">525.5</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">575.6</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mar-2014</Data></Cell>
+    <Cell><Data ss:Type="Number">540.6</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">632.20000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">545.4</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">447.4</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">404.6</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">588.9</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">308</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">519.4</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">566</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jun-2014</Data></Cell>
+    <Cell><Data ss:Type="Number">548.9</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">651.1</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">548</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">452.2</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">405.1</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">594.6</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">308.89999999999998</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">529.20000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">571.79999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Sep-2014</Data></Cell>
+    <Cell><Data ss:Type="Number">555.6</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">668</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">553.70000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">455.8</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">404.3</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">589.1</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">311.2</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">506</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">574.6</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Dec-2014</Data></Cell>
+    <Cell><Data ss:Type="Number">567.70000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">690</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">565.4</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">460.6</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">414.3</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">592.29999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">308.10000000000002</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">521.1</Data><Comment ss:Author="ABS.Stat"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Tahoma" html:Size="8"
+        html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+    <Cell><Data ss:Type="Number">586.29999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">r: revised</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">Mar-2015</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">576.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">712</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">569.1</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">462.3</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">416.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">591.9</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">309.7</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">520.20000000000005</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">592.79999999999995</Data><Comment
+      ss:Author="ABS.Stat"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">p: preliminary figure or series subject to revision</Font></ss:Data></Comment></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>15</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

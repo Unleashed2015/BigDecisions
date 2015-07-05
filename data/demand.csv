@@ -1,0 +1,268 @@
+ANZSCO,Occupation,State,State2
+111111,Chief Executive or Managing Director,SA,South Australia
+111211,Corporate General Manager,SA,South Australia
+121215,Grape Grower,SA,South Australia
+121411,Mixed Crop and Livestock Farmer,SA,South Australia
+131112,Sales and Marketing Manager,SA,South Australia
+132111,Corporate Services Manager,SA,South Australia
+132211,Finance Manager,SA,South Australia
+132311,Human Resource Manager,SA,South Australia
+132311,Human Resource Manager,VIC,Victoria
+132411,Policy and Planning Manager,SA,South Australia
+132511,Research and Development Manager,VIC,Victoria
+133111,Construction Project Manager,SA,South Australia
+133112,Project Builder,SA,South Australia
+133211,Engineering Manager,SA,South Australia
+133211,Engineering Manager,VIC,Victoria
+133311,Importer or Exporter,SA,South Australia
+133312,Wholesaler,SA,South Australia
+133411,Manufacturer,SA,South Australia
+133512,Production Manager (Manufacturing),SA,South Australia
+133513,Production Manager (Mining),VIC,Victoria
+133611,Supply and Distribution Manager,SA,South Australia
+134211,Medical Administrator,SA,South Australia
+134212,Nursing Clinical Director,SA,South Australia
+134214,Welfare Centre Manager,SA,South Australia
+134299,Health and Welfare Services Managers nec,SA,South Australia
+134311,School Principal,SA,South Australia
+134411,Faculty Head,SA,South Australia
+134412,Regional Education Manager,SA,South Australia
+134499,Education Managers nec,SA,South Australia
+135111,Chief Information Officer,SA,South Australia
+135112,ICT Project Manager,SA,South Australia
+135112,ICT Project Manager,VIC,Victoria
+135199,ICT Managers nec,SA,South Australia
+139911,Art Administrator or Manager,SA,South Australia
+139912,Environmental Manager,SA,South Australia
+139913,Laboratory Manager,SA,South Australia
+139914,Quality Assurance Manager,SA,South Australia
+139999,Specialist Managers nec,SA,South Australia
+141111,Cafe or Restaurant Manager,SA,South Australia
+141311,Hotel or Motel Manager,VIC,Victoria
+149211,Call or Contact Centre Manager,SA,South Australia
+149212,Customer Service Manager,SA,South Australia
+149411,Fleet Manager,SA,South Australia
+149413,Transport Company Manager,SA,South Australia
+149913,Facilities Manager,SA,South Australia
+149914,Financial Institution Branch Manager,SA,South Australia
+149915,Equipment Hire Manager,SA,South Australia
+223211,ICT Trainer,SA,South Australia
+223311,Training and Development Professional,SA,South Australia
+224112,Mathematician,VIC,Victoria
+224113,Statistician,VIC,Victoria
+224311,Economist,SA,South Australia
+231212,Ship''s Engineer,SA,South Australia
+231212,Ship's Engineer ,VIC,Victoria
+231213,Ship''s Master,SA,South Australia
+232212,Surveyor,SA,South Australia
+232213,Cartographer,SA,South Australia
+232214,Other Spatial Scientist,SA,South Australia
+232312,Industrial Designer,SA,South Australia
+233211,Civil Engineer,SA,South Australia
+233211,Civil Engineer,VIC,Victoria
+233212,Geotechnical Engineer,SA,South Australia
+233214,Structural Engineer,SA,South Australia
+233215,Transport Engineer,SA,South Australia
+233311,Electrical Engineer,SA,South Australia
+233311,Electrical Engineer,VIC,Victoria
+233511,Industrial Engineer,SA,South Australia
+233512,Mechanical Engineer,SA,South Australia
+233512,Mechanical Engineer,VIC,Victoria
+233513,Production or Plant Engineer,SA,South Australia
+233513,Production or Plant Engineer,VIC,Victoria
+233611,Mining Engineer (excluding Petroleum),VIC,Victoria
+233914,Engineering Technologist,VIC,Victoria
+234111,Agricultural Consultant,VIC,Victoria
+234112,Agricultural Scientist,VIC,Victoria
+234211,Chemist,VIC,Victoria
+234213,Wine Maker,SA,South Australia
+234313,Environmental Research Scientist,SA,South Australia
+234399,Environmental Scientists nec,SA,South Australia
+234411,Geologist,VIC,Victoria
+234412,Geophysicist,VIC,Victoria
+234599,Life Scientists nec,VIC,Victoria
+234711,Veterinarian,VIC,Victoria
+234914,Physicist,VIC,Victoria
+234999,Natural and Physical Science Professionals nec,VIC,Victoria
+241111,Early Childhood (Pre-Primary School) Teacher,SA,South Australia
+241111,Early Childhood (Pre-primary School) Teacher,VIC,Victoria
+241511,Special Needs Teacher,SA,South Australia
+241599,Special Education Teachers nec,SA,South Australia
+242211,Vocational Education Teacher (Trades),SA,South Australia
+242211,Vocational Education Teacher (Non-Trades),SA,South Australia
+251111,Dietitian,VIC,Victoria
+251214,Sonographer,SA,South Australia
+251214,Sonographer,VIC,Victoria
+252211,Acupuncturist,SA,South Australia
+252213,Naturopath,SA,South Australia
+252411,Occupational Therapist,VIC,Victoria
+252511,Physiotherapist,SA,South Australia
+252511,Physiotherapist,VIC,Victoria
+252611,Podiatrist,SA,South Australia
+252611,Podiatrist,VIC,Victoria
+252712,Speech Pathologist,VIC,Victoria
+253111,General Practitioner,SA,South Australia
+253112,Resident Medical Officer,SA,South Australia
+253211,Anaesthetist,SA,South Australia
+253311,Specialist Physician (General Medicine),SA,South Australia
+253312,Cardiologist,SA,South Australia
+253313,Clinical Haematologist,SA,South Australia
+253314,Medical Oncologist,SA,South Australia
+253315,Endocrinologist,SA,South Australia
+253316,Gastroenterologist,SA,South Australia
+253317,Intensive Care Specialist,SA,South Australia
+253318,Neurologist,SA,South Australia
+253321,Paediatrician,SA,South Australia
+253322,Renal Medicine Specialist,SA,South Australia
+253323,Rheumatologist,SA,South Australia
+253324,Thoracic Medicine Specialist,SA,South Australia
+253399,Specialist Physicians nec,SA,South Australia
+253411,Psychiatrist,SA,South Australia
+253511,Surgeon (General),SA,South Australia
+253512,Cardiothoracic Surgeon,SA,South Australia
+253513,Neurosurgeon,SA,South Australia
+253514,Orthopaedic Surgeon,SA,South Australia
+253515,Otorhinolaryngologist,SA,South Australia
+253516,Paediatric Surgeon,SA,South Australia
+253517,Plastic and Reconstructive Surgeon,SA,South Australia
+253518,Urologist,SA,South Australia
+253521,Vascular Surgeon,SA,South Australia
+253911,Dermatologist,SA,South Australia
+253912,Emergency Medicine Specialist,SA,South Australia
+253913,Obstetrician and Gynaecologist,SA,South Australia
+253914,Ophthalmologist,SA,South Australia
+253915,Pathologist,SA,South Australia
+253917,Diagnostic and Interventional Radiologist,SA,South Australia
+253918,Radiation Oncologist,SA,South Australia
+253999,Medical Practitioners nec,SA,South Australia
+254111,Midwife,VIC,Victoria
+254411,Nurse Practitioner,SA,South Australia
+254411,Nurse Practitioner,VIC,Victoria
+254412,Registered Nurse (Aged Care),SA,South Australia
+254412,Registered Nurse (Aged Care),VIC,Victoria
+254413,Registered Nurse (Child And Family Health),SA,South Australia
+254413,Registered Nurse (Child and Family Health),VIC,Victoria
+254414,Registered Nurse (Community Health),SA,South Australia
+254414,Registered Nurse (Community Health),VIC,Victoria
+254415,Registered Nurse (Critical Care And Emergency),SA,South Australia
+254415,Registered Nurse (Critical Care and Emergency),VIC,Victoria
+254416,Registered Nurse (Development Disability),SA,South Australia
+254416,Registered Nurse (Developmental Disability),VIC,Victoria
+254417,Registered Nurse (Disability And Rehabilitation),SA,South Australia
+254417,Registered Nurse (Disability and Rehabilitation),VIC,Victoria
+254418,Registered Nurse (Medical),SA,South Australia
+254418,Registered Nurse (Medical),VIC,Victoria
+254421,Registered Nurse (Medical Practice),SA,South Australia
+254421,Registered Nurse (Medical Practice),VIC,Victoria
+254422,Registered Nurse (Mental Health),SA,South Australia
+254422,Registered Nurse (Mental Health),VIC,Victoria
+254423,Registered Nurse (Perioperative),SA,South Australia
+254423,Registered Nurse (Perioperative),VIC,Victoria
+254424,Registered Nurse (Surgical),SA,South Australia
+254424,Registered Nurse (Surgical),VIC,Victoria
+254425,Registered Nurse (Paediatric),SA,South Australia
+254499,Registered Nurse nec,SA,South Australia
+254499,Registered Nurses nec,VIC,Victoria
+261111,ICT Business Analyst,SA,South Australia
+261111,ICT Business Analyst,VIC,Victoria
+261112,Systems Analyst,SA,South Australia
+261311,Analyst Programmer,SA,South Australia
+261312,Developer Programmer,SA,South Australia
+261313,Software Engineer,SA,South Australia
+261314,Software Tester,SA,South Australia
+261399,Software and Applications Programmers nec,SA,South Australia
+262111,Database Administrator,SA,South Australia
+262112,ICT Security Specialist,SA,South Australia
+262113,Systems Administrator,SA,South Australia
+263111,Computer Network and Systems Engineer,SA,South Australia
+263112,Network Administrator,SA,South Australia
+263113,Network Analyst,SA,South Australia
+263211,ICT Quality Assurance Engineer,SA,South Australia
+263212,ICT Support Engineer,SA,South Australia
+263213,ICT Systems Test Engineer,SA,South Australia
+263299,ICT Support and Test Engineers nec,SA,South Australia
+263311,Telecommunications Engineer,SA,South Australia
+263312,Telecommunications Network Engineer,SA,South Australia
+271299,Judicial and Other Legal Professionals nec,SA,South Australia
+272311,Clinical Psychologist,VIC,Victoria
+272511,Social Worker,VIC,Victoria
+312112,Building Associate,VIC,Victoria
+312211,Civil Engineering Draftsperson,VIC,Victoria
+312311,Electrical Engineering Draftsperson,SA,South Australia
+312311,Electrical Engineering Draftsperson,VIC,Victoria
+312312,Electrical Engineering Technician,SA,South Australia
+312412,Electronic Engineering Technician,SA,South Australia
+312511,Mechanical Engineering Draftsperson,SA,South Australia
+312511,Mechanical Engineering Draftsperson,VIC,Victoria
+312911,Maintenance Planner,SA,South Australia
+312912,Metallurgical or Materials Technician,SA,South Australia
+312999,Building and Engineering Technicians nec,SA,South Australia
+321111,Automotive Electrician,SA,South Australia
+321111,Automotive Electrician,VIC,Victoria
+321211,Motor Mechanic (General),SA,South Australia
+321212,Diesel Motor Mechanic,SA,South Australia
+323211,Fitter (General),SA,South Australia
+323212,Fitter and Turner,SA,South Australia
+323213,Fitter-Welder,SA,South Australia
+323214,Metal Machinist (First Class),SA,South Australia
+323299,Metal Fitters and Machinists nec,SA,South Australia
+324111,Panelbeater,SA,South Australia
+331111,Bricklayer,SA,South Australia
+331112,Stonemason,SA,South Australia
+333311,Roof Tiler,SA,South Australia
+334111,Plumber (General),SA,South Australia
+334112,Airconditioning and Mechanical Services Plumber,SA,South Australia
+334113,Drainer,SA,South Australia
+334114,Gasfitter,SA,South Australia
+334115,Roof Plumber,SA,South Australia
+341111,Electrician (General),SA,South Australia
+341112,Electrician (Special Class),SA,South Australia
+342111,Airconditioning and Refrigeration Mechanic,SA,South Australia
+342211,Electrical Linesworker,SA,South Australia
+342311,Business Machine Mechanic,SA,South Australia
+342313,Electronic Equipment Trades Worker,SA,South Australia
+351311,Chef,SA,South Australia
+351311,Chef,VIC,Victoria
+351411,Cook,SA,South Australia
+361311,Veterinary Nurse,SA,South Australia
+394111,Cabinetmaker,SA,South Australia
+399411,Jeweller,SA,South Australia
+411411,Enrolled Nurse,SA,South Australia
+411412,Mothercraft Nurse,SA,South Australia
+134111 ,Child Care Centre Manager ,VIC,Victoria
+224213 ,Health Information Manager ,VIC,Victoria
+234914 ,Physicist (Medical only) ,VIC,Victoria
+241213 ,Primary School Teacher ,VIC,Victoria
+241411 ,Secondary School Teacher ,VIC,Victoria
+242211 ,Vocational Education Teacher ,VIC,Victoria
+251213  ,Nuclear Medicine Technologist,VIC,Victoria
+261112 ,Systems Analyst  ,VIC,Victoria
+261311 ,Analyst Programmer ,VIC,Victoria
+261312 ,Developer Programmer ,VIC,Victoria
+261313 ,Software Engineer ,VIC,Victoria
+261314 ,Software Tester,VIC,Victoria
+261399 ,Software and Applications Programmers nec ,VIC,Victoria
+262111 ,Database Administrator ,VIC,Victoria
+262112 ,ICT Security Specialist,VIC,Victoria
+263111 ,Computer Network and Systems Engineer ,VIC,Victoria
+272412 ,Interpreter ,VIC,Victoria
+321211 ,Motor Mechanic (General) ,VIC,Victoria
+322211 ,Sheetmetal Trades Worker ,VIC,Victoria
+322311 ,Metal Fabricator ,VIC,Victoria
+322313 ,Welder (First Class) ,VIC,Victoria
+323214 ,Metal Machinist (First Class) ,VIC,Victoria
+324111 ,Panelbeater ,VIC,Victoria
+324311 ,Vehicle Painter ,VIC,Victoria
+334112 ,Airconditioning and Mechanical Services Plumber ,VIC,Victoria
+334113 ,Drainer ,VIC,Victoria
+334114 ,Gasfitter ,VIC,Victoria
+334115 ,Roof Plumber ,VIC,Victoria
+342111 ,Airconditioning and Refrigeration Mechanic,VIC,Victoria
+342211 ,Electrical Linesworker ,VIC,Victoria
+342313 ,Electronic Equipment Trades Worker ,VIC,Victoria
+342413 ,Telecommunications Linesworker ,VIC,Victoria
+342414 ,Telecommunications Technician ,VIC,Victoria
+351111 ,Baker ,VIC,Victoria
+351112 ,Pastrycook ,VIC,Victoria
+351411 ,Cook ,VIC,Victoria
+394111 ,Cabinetmaker ,VIC,Victoria
