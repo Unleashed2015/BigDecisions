@@ -6,7 +6,7 @@ Our website pulls together relevant data points to help individuals reach a mean
 
 Team name: Data Dingoes
 Team memebers: Ash, Cathy, Ben and Theresa
-Hackerspace url: [https://hackerspace.govhack.org/content/should-i-stay-or-should-i-go] (http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6306.0May%202014?OpenDocument)
+Hackerspace url: [https://hackerspace.govhack.org/content/should-i-stay-or-should-i-go](https://hackerspace.govhack.org/content/should-i-stay-or-should-i-go)
 
 Live url: [https://asheshwor.shinyapps.io/bigDecisions](https://asheshwor.shinyapps.io/bigDecisions)
 
