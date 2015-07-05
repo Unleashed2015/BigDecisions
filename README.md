@@ -1,6 +1,16 @@
 #### Project description
 
-Young Australians are often faced with the decision whether to stay in the city they were raised in, or move interstate for employment opportunities or to be with a loved one. It's a big life decision. But how do you decide, should I stay or should I go? Our app ....
+Young Australians are often faced with the big decision whether to stay in the city they were raised in, or move interstate for employment opportunities or to be with a loved one. It's a big life decision. But how do you decide? Should I stay or should I go?
+Adelaide loses lots of young graduates. They may earn more interstate but what about housing affordability or lifestyle?
+Our website pulls together relevant data points to help individuals reach a meaningful decision.
+
+Team name: Data Dingoes
+Team memebers: Ash, Cathy, Ben and Theresa
+Hackerspace url: [https://hackerspace.govhack.org/content/should-i-stay-or-should-i-go] (http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6306.0May%202014?OpenDocument)
+
+
+![app screen-shot](images/1dash.png)
+<small>Screenshot of app's dashboard page</small>
 
 #### Datasets used
 
@@ -19,11 +29,11 @@ Young Australians are often faced with the decision whether to stay in the city 
 *   RStudio [http://www.rstudio.com/](http://www.rstudio.com/)
 *   Shinyapps [http://shiny.rstudio.com/](http://shiny.rstudio.com/)
 *   GitHub [https://github.com/](https://github.com/)
-*   html5up [http://html5up.net/](http://html5up.net/)
 *   gimp [http://www.gimp.org/](http://www.gimp.org/)
 *   adobe premier pro [https://www.adobe.com/au/products/premiere.html](https://www.adobe.com/au/products/premiere.html)
 *   slack [slack.com](slack.com)
 *   Active presenter [http://atomisystems.com/activepresenter/](http://atomisystems.com/activepresenter/)
+*   Font Awesome [http://fortawesome.github.io/Font-Awesome/](http://fortawesome.github.io/Font-Awesome/)
 
 #### Source code
 

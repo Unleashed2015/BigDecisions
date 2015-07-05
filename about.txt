@@ -1,6 +1,10 @@
-<p>Project description</p>
-<p>Young Australians are often faced with the decision whether to stay in the city they were raised in, or move interstate for employment opportunities or to be with a loved one. It's a big life decision. But how do you decide, should I stay or should I go?
-Our app .... 
+<p>Young Australians are often faced with the big decision whether to stay in the city they were raised in, or move interstate for employment opportunities or to be with a loved one. It's a big life decision. But how do you decide? Should I stay or should I go?
+Adelaide loses lots of young graduates. They may earn more interstate but what about housing affordability or lifestyle?
+Our website pulls together relevant data points to help individuals reach a meaningful decision.</p>
+
+<p>Team name: Data Dingoes<br>
+Team memebers: Ash, Cathy, Ben and Theresa<br>
+Hackerspace url: <a href='http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6306.0May%202014?OpenDocument' target='_blank'>https://hackerspace.govhack.org/content/should-i-stay-or-should-i-go</a><br>
 </p>
 
 <p>Datasets used</p>
@@ -21,13 +25,13 @@ Our app ....
 <li>RStudio <a href='http://www.rstudio.com/'>http://www.rstudio.com/</a> </li>
 <li>Shinyapps <a href='http://shiny.rstudio.com/'>http://shiny.rstudio.com/</a> </li>
 <li>GitHub <a href='https://github.com/'>https://github.com/</a> </li>
-<li>html5up <a href='http://html5up.net/'>http://html5up.net/</a> </li>
 <li>gimp <a href='http://www.gimp.org/'>http://www.gimp.org/</a> </li>
 <li>adobe premier pro <a href='https://www.adobe.com/au/products/premiere.html'>https://www.adobe.com/au/products/premiere.html</a> </li>
 <li>slack <a href='slack.com'>slack.com</a> </li>
 <li>Active presenter <a href='http://atomisystems.com/activepresenter/'>http://atomisystems.com/activepresenter/</a> </li>
+<li>Font Awesome <a href='http://fortawesome.github.io/Font-Awesome/>http://fortawesome.github.io/Font-Awesome/</a></li>
 </ul>
 	
 <h4>Source code</h4>
-<p>GitHub repository<a href='https://github.com/Unleashed2015/sisosig'>https://github.com/Unleashed2015/sisosig</a></p>
+<p>GitHub repository <a href='https://github.com/Unleashed2015/sisosig'>https://github.com/Unleashed2015/sisosig</a></p>
 
