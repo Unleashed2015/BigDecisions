@@ -8,7 +8,13 @@ Team name: Data Dingoes
 Team memebers: Ash, Cathy, Ben and Theresa
 Hackerspace url: [https://hackerspace.govhack.org/content/should-i-stay-or-should-i-go] (http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6306.0May%202014?OpenDocument)
 
+Live url: [https://asheshwor.shinyapps.io/bigDecisions](https://asheshwor.shinyapps.io/bigDecisions)
 
+If you have RStudion and Shiny installed, use the following command to run the app:
+
+```R
+shiny::runGitHub('BigDecisions', 'Unleashed2015')
+````
 ![app screen-shot](images/1dash.png)
 <small>Screenshot of app's dashboard page</small>
 
