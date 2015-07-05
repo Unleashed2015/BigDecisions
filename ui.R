@@ -21,7 +21,7 @@ body <- dashboardBody(
   ),
   tabItems(
     tabItem(tabName ="dashboard",
-            # h3("About me"),
+            h3("Should I stay or should I go?"),
             fluidRow(
               column(width = 12,
                      box(title='About me', solidHeader=TRUE,
